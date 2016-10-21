@@ -1,0 +1,4 @@
+# Windows build artifacts
+*.exe
+*.ilk
+*.pdb
